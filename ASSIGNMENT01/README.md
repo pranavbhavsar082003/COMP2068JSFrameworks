@@ -18,7 +18,7 @@ nodemon
 When you click on the nav links you should be directed to each pages of my portfolio and note that when you click the about it won't change anything but you have to scroll down to see the entire content, also same with other pages because there are four pages in total including the home page itself.
 
 ## Website Link
-check my portfolio website link by clicking on this link [My Portfolio]( )
+check my portfolio website link by clicking on this link [My Portfolio](https://pranav-bhavsar.onrender.com)
 
 ## References
 For transition and animation of styling i.e. style.css file I have used youtube.ca, W3schools and chatgpt. Used font awesome for title fonts
