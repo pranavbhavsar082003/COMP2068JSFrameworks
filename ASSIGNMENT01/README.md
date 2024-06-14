@@ -20,5 +20,14 @@ When you click on the nav links you should be directed to each pages of my portf
 ## Website Link
 check my portfolio website link by clicking on this link [My Portfolio]( )
 
+## References
+For transition and animation of styling i.e. style.css file I have used youtube.ca, W3schools and chatgpt. Used font awesome for title fonts
+
+[yt](https://www.youtube.com/)
+[W3schools](https://www.w3schools.com/)
+[Font Awesome](https://fontawesome.com/)
+[chatgpt](https://chatgpt.com/)
+
+
 ## Contact Me
 For any queries, please contact me via my email which is provided in my portfolio website
