@@ -14,7 +14,7 @@ router.get('/', isAuthenticated, async (req, res) => {
   }
 });
 
-// Add new NFT to cart
+
 router.post('/add/:id', isAuthenticated, async (req, res) => {
   const nft = await NFT.findById(req.params.id);
   let cart = await Cart.findOne({ user: req.user._id });
