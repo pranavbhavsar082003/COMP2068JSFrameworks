@@ -43,27 +43,28 @@ Once the application is up and running, you can explore the various features off
 ### Home Page
 Start by visiting the home page, where you’ll find an overview of the platform and options to Get Started, Explore NFT Collections, or Create Your Own NFT.
 
-![Home Page](images/Welcome.png)
+![Home Page](images/img1.png)
 
 ### NFT Collection
 Browse through the public NFT collections. Logged-in users can add NFTs to their cart and search for specific NFTs. If a search yields no results, users can create a new NFT directly from the search page.
 
-![NFT Collection](images/nft collections.png)
+![NFT Collection](images/img3.png)
 
 ### Create NFT
 After logging in, users can create a new NFT by providing a Title, Description, Image URL, and Price. The new NFT will be added to the collection.
 
-![Create NFT](images/create new nft.png)
+![Create NFT](images/img4.png)
 
 ### Cart
 View and manage the NFTs you’re interested in purchasing. Edit the description and image of NFTs or remove them from your cart.
 
-![Cart](images/Your cart.png)
+![Cart](images/img5.png)
 
 ### Login/Register
 New users can register, and existing users can log in to access personalized features.
 
-![Login Page](images/Login.png)
+![Login Page](img2/.png)
+![Register Page](img6/.png)
 
 ## Pages Overview
 
