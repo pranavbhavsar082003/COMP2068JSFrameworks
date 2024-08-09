@@ -1,10 +1,47 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{{title}}</title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+  <!-- Header/Nav Section -->
+  <header class="site-header">
+    <nav class="navbar">
+      <div class="navbar-brand">
+        <a href="/">TokenVerse</a>
+      </div>
+      <div class="navbar-menu">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/nfts">NFT Collection</a></li>
+          <li><a href="/nfts/add">Create NFT</a></li>
+          <li><a href="/cart">Cart</a></li>
+          {{#if user}}
+          <li><a href="/auth/logout">Logout</a></li>
+          {{else}}
+          <li><a href="/auth/login">Login</a></li>
+          <li><a href="/auth/register">Register</a></li>
+          {{/if}}
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main>
     {{{body}}}
-  </body>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container text-center">
+      <span>© 2024 TokenVerse. All rights reserved.</span>
+    </div>
+  </footer>
+
+  <script src="/scripts/main.js"></script>
+</body>
 </html>
