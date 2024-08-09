@@ -10,7 +10,6 @@ TokenVerse is your ultimate platform for managing and showcasing Non-Fungible To
 - [Usage](#usage)
 - [Pages Overview](#pages-overview)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -37,16 +36,34 @@ TokenVerse is your ultimate platform for managing and showcasing Non-Fungible To
     ```
     code is in Assignment02 Directory
 
-
 ## Usage
 
 Once the application is up and running, you can explore the various features offered by TokenVerse:
 
-- **Home Page**: Start by visiting the home page, where you’ll find an overview of the platform and options to Get Started, Explore NFT Collections, or Create Your Own NFT.
-- **NFT Collection**: Browse through the public NFT collections. Logged-in users can add NFTs to their cart and search for specific NFTs. If a search yields no results, users can create a new NFT directly from the search page.
-- **Create NFT**: After logging in, users can create a new NFT by providing a Title, Description, Image URL, and Price. The new NFT will be added to the collection.
-- **Cart**: View and manage the NFTs you’re interested in purchasing. Edit the description and image of NFTs or remove them from your cart.
-- **Login/Register**: New users can register, and existing users can log in to access personalized features.
+### Home Page
+Start by visiting the home page, where you’ll find an overview of the platform and options to Get Started, Explore NFT Collections, or Create Your Own NFT.
+
+![Home Page](images/Welcome.png)
+
+### NFT Collection
+Browse through the public NFT collections. Logged-in users can add NFTs to their cart and search for specific NFTs. If a search yields no results, users can create a new NFT directly from the search page.
+
+![NFT Collection](images/nft collections.png)
+
+### Create NFT
+After logging in, users can create a new NFT by providing a Title, Description, Image URL, and Price. The new NFT will be added to the collection.
+
+![Create NFT](images/create new nft.png)
+
+### Cart
+View and manage the NFTs you’re interested in purchasing. Edit the description and image of NFTs or remove them from your cart.
+
+![Cart](images/Your cart.png)
+
+### Login/Register
+New users can register, and existing users can log in to access personalized features.
+
+![Login Page](images/Login.png)
 
 ## Pages Overview
 
